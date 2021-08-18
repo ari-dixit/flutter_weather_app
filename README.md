@@ -8,13 +8,13 @@ A basic Weather Flutter Application compatible for iOS or Android which incorpor
 - Search bar located on top left of app
 - Menu icon found in top right of screen
 - Rich weather related information including
-    1. City name
-    2. Date and time
-    3. Temperature
-    4. Day/night status
-    5. Wind speed
-    6. Rainfall odds (%)
-    7. Humidity percentage
+  - City name
+  - Date and time
+  - Temperature
+  - Day/night status
+  - Wind speed
+  - Rainfall odds (%)
+  - Humidity percentage
 
 ## Dependencies
 1. [transformer_page_view](https://pub.dev/packages/transformer_page_view): ^0.1.6 (not null sound safe)
