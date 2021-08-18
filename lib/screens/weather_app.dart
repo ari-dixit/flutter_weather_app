@@ -26,14 +26,14 @@ class _WeatherAppState extends State<WeatherApp> {
   @override
   Widget build(BuildContext context) {
     if (locationList[_currentPage].weatherType == 'Sunny') {
-      bgImg = '/Users/arihandixit/VSCodeProjects/weather_app/assets/sunny.jpg';
+      bgImg = 'YOUR PATH HERE/weather_app/assets/sunny.jpg';
     } else if (locationList[_currentPage].weatherType == 'Night') {
-      bgImg = '/Users/arihandixit/VSCodeProjects/weather_app/assets/night.jpg';
+      bgImg = 'YOUR PATH HERE/weather_app/assets/night.jpg';
     } else if (locationList[_currentPage].weatherType == 'Rainy') {
-      bgImg = '/Users/arihandixit/VSCodeProjects/weather_app/assets/rainy.jpg';
+      bgImg = 'YOUR PATH HERE/weather_app/assets/rainy.jpg';
     } else if (locationList[_currentPage].weatherType == 'Cloudy') {
       bgImg =
-          '/Users/arihandixit/VSCodeProjects/weather_app/assets/cloudy.jpeg';
+          'YOUR PATH HERE/weather_app/assets/cloudy.jpeg';
     }
 
     return Scaffold(
@@ -56,7 +56,7 @@ class _WeatherAppState extends State<WeatherApp> {
                 child: GestureDetector(
                   onTap: () => print('Menu Clicked'),
                   child: SvgPicture.asset(
-                    '/Users/arihandixit/VSCodeProjects/weather_app/assets/menu.svg',
+                    'YOUR PATH HERE/weather_app/assets/menu.svg',
                     height: 30,
                     width: 30,
                     color: Colors.white,
