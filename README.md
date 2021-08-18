@@ -1,4 +1,4 @@
-# weather_app
+# flutter_weather_app
 
 A basic Weather Flutter Application compatible for iOS or Android which incorporates modern design into a straightforward and engaging UI. Inspired by [Pradip Debnath's tutorial on YouTube](https://youtu.be/A9EWCl67hKw). If you enjoy this build or find it helpful, please leave a ⭐ 
 
