@@ -21,5 +21,3 @@ A basic Weather Flutter Application compatible for iOS or Android which incorpor
 2. [google_fonts](https://pub.dev/packages/google_fonts): ^2.1.0
 3. [flutter_svg](https://pub.dev/packages/flutter_svg): ^0.22.0
 
-## How to use
-1. ```flutter run --no-sound-null-safety```
